@@ -1,7 +1,7 @@
 # Job Fraud Detection System for Jiving Jobs
 
 ## Project Overview
-This project develops an AI-powered fraud detection system for Jiving Jobs to automatically identify fake job listings using natural language processing and artificial neural networks. The solution protects job seekers from fraudulent postings while reducing manual validation workload for the platform.
+This project develops ML fraud detection system for 'Jiving Jobs' to help identify fake job listings using natural language processing and artificial neural networks. The solution protects job seekers from fraudulent postings while reducing manual validation workload for the platform.
 
 ## Business Context
 **Problem**: Fraudulent job listings damage platform reputation and waste applicants' time:
